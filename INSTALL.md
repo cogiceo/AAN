@@ -13,7 +13,7 @@ These have been tested on a Gl-Inet XE300 running  OpenWrt 22.03.4, r20123-38ccc
 
 ```bash
 opkg update
-opkg install python3 scapy
+opkg install python3 scapy python3-netifaces
 ```
 
 
